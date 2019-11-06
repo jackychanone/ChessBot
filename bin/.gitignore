@@ -1,5 +1,6 @@
-/chess/
-/src/
-/tests/
-/traffic/
-/writeup/
+bin
+writeup
+
+*.jar
+*.graph
+
