@@ -1,0 +1,7 @@
+bin
+/src/writeup
+
+*.DS_Store
+*.graph
+*.jar
+.classpath
