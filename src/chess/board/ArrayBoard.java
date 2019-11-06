@@ -8,9 +8,9 @@ import java.util.List;
 import java.util.Random;
 import java.util.Set;
 
-import cse332.chess.interfaces.Board;
-import cse332.chess.interfaces.Iteratorable;
-import cse332.chess.interfaces.Predicate;
+import src.chess.interfaces.Board;
+import src.chess.interfaces.Iteratorable;
+import src.chess.interfaces.Predicate;
 import static chess.board.ArrayPiece.*;
 /**
  * @author Owen Durni (opd@andrew.cmu.edu)

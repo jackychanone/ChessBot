@@ -3,8 +3,8 @@ package tests.gitlab;
 import chess.board.ArrayBoard;
 import chess.board.ArrayMove;
 import chess.game.SimpleEvaluator;
-import cse332.chess.interfaces.Move;
-import cse332.chess.interfaces.Searcher;
+import src.chess.interfaces.Move;
+import src.chess.interfaces.Searcher;
 
 import chess.bots.SimpleSearcher;
 

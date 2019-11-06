@@ -2,9 +2,9 @@ package chess.bots;
 
 import java.util.List;
 
-import cse332.chess.interfaces.AbstractSearcher;
-import cse332.chess.interfaces.Board;
-import cse332.chess.interfaces.Move;
+import src.chess.interfaces.AbstractSearcher;
+import src.chess.interfaces.Board;
+import src.chess.interfaces.Move;
 
 /**
  * An example searcher to get you started.

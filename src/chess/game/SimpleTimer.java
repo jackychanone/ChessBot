@@ -1,6 +1,6 @@
 package chess.game;
 
-import cse332.chess.interfaces.Timer;
+import src.chess.interfaces.Timer;
 
 public class SimpleTimer implements Timer {
     @SuppressWarnings("unused")

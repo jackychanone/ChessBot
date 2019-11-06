@@ -3,7 +3,7 @@ package traffic;
 import traffic.RoadSegment;
 import traffic.TrafficEvaluator;
 import traffic.TrafficPosition;
-import cse332.chess.interfaces.Searcher;
+import src.chess.interfaces.Searcher;
 
 public class SolveTraffic {
     public Searcher<RoadSegment, TrafficPosition> searcher;

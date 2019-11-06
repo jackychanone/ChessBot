@@ -1,8 +1,8 @@
-package cse332.chess.interfaces;
+package src.chess.interfaces;
 
 import java.util.List;
 
-import cse332.chess.interfaces.Move;
+import src.chess.interfaces.Move;
 
 public interface Board
 <

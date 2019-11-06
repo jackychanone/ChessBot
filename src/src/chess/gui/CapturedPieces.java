@@ -1,7 +1,7 @@
 /**
  * Manages pieces captured by the player
  */
-package cse332.chess.gui;
+package src.chess.gui;
 
 import java.awt.Canvas;
 import java.awt.Component;

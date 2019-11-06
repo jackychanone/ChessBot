@@ -1,4 +1,4 @@
-package cse332.exceptions;
+package src.exceptions;
 
 public class NotYetImplementedException extends RuntimeException {
     private static final long serialVersionUID = 1L;

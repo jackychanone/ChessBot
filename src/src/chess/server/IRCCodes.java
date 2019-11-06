@@ -1,4 +1,4 @@
-package cse332.chess.server;
+package src.chess.server;
 
     public class IRCCodes {
         public static final int RplNone             = 0;

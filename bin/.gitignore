@@ -4,3 +4,7 @@ writeup
 *.jar
 *.graph
 
+/chess/
+/tests/
+/.DS_Store
+/src/

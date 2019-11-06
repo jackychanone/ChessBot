@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 
-import cse332.chess.interfaces.Iteratorable;
+import src.chess.interfaces.Iteratorable;
 import static chess.board.ArrayBoard.*;
 import static chess.board.ArrayPiece.*;
 

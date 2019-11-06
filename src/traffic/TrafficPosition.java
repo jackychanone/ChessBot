@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Stack;
 import java.util.Vector;
 
-import cse332.chess.interfaces.Board;
+import src.chess.interfaces.Board;
 
 public class TrafficPosition implements Board<RoadSegment,TrafficPosition> {
     public static final TrafficPosition FACTORY = new TrafficPosition();

@@ -1,10 +1,10 @@
 package chess.bots;
 
-import cse332.chess.interfaces.AbstractSearcher;
-import cse332.chess.interfaces.Board;
-import cse332.chess.interfaces.Evaluator;
-import cse332.chess.interfaces.Move;
-import cse332.exceptions.NotYetImplementedException;
+import src.chess.interfaces.AbstractSearcher;
+import src.chess.interfaces.Board;
+import src.chess.interfaces.Evaluator;
+import src.chess.interfaces.Move;
+import src.exceptions.NotYetImplementedException;
 
 /**
  * This class should implement the minimax algorithm as described in the

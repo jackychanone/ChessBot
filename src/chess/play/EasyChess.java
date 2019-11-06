@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-import cse332.chess.server.Hub;
+import src.chess.server.Hub;
 
 /**
  * This class will allow you to face other bots on the chess server.

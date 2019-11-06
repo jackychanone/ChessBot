@@ -1,4 +1,4 @@
-package cse332.chess.interfaces;
+package src.chess.interfaces;
 
 
 public interface Move

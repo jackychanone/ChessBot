@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Set;
 
-import cse332.chess.interfaces.Move;
+import src.chess.interfaces.Move;
 
 public class RoadSegment implements Move<RoadSegment> {
     private static Map<String, RoadSegment> roadSegmentsByAddress = new HashMap<>();

@@ -1,7 +1,7 @@
 package chess.board;
 
 import static chess.board.ArrayBoard.*;
-import cse332.chess.interfaces.Move;
+import src.chess.interfaces.Move;
 
 /**
  * Represents a move via the original source piece,

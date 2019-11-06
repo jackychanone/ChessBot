@@ -1,4 +1,4 @@
-package cse332.chess.gui;
+package src.chess.gui;
 
 //package com.chessclub.easychess;
 
@@ -16,9 +16,9 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import cse332.chess.interfaces.Move;
-import cse332.chess.server.ChessServerConnection;
-import cse332.chess.server.Hub;
+import src.chess.interfaces.Move;
+import src.chess.server.ChessServerConnection;
+import src.chess.server.Hub;
 import chess.setup.Engine;
 
 class GameState {

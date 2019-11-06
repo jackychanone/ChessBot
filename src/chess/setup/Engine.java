@@ -2,8 +2,8 @@ package chess.setup;
 
 import java.util.Observer;
 
-import cse332.chess.interfaces.Searcher;
-import cse332.chess.server.Hub;
+import src.chess.interfaces.Searcher;
+import src.chess.server.Hub;
 import chess.board.ArrayBoard;
 import chess.board.ArrayMove;
 import chess.bots.LazySearcher;

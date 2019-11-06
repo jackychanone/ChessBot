@@ -1,6 +1,6 @@
 package chess.board;
 
-import cse332.chess.interfaces.Creatable;
+import src.chess.interfaces.Creatable;
 
 /**
  * Stores enough information about the state of the board and

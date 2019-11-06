@@ -1,7 +1,7 @@
 package chess.board;
 
-import cse332.chess.interfaces.Creatable;
-import cse332.chess.interfaces.Predicate;
+import src.chess.interfaces.Creatable;
+import src.chess.interfaces.Predicate;
 import static chess.board.ArrayBoard.*;
 
 /**

@@ -1,6 +1,6 @@
 package chess.play;
 
-import cse332.chess.server.Hub;
+import src.chess.server.Hub;
 
 /**
  * You can use this client to have your bot automatically

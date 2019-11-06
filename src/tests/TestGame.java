@@ -5,8 +5,8 @@ import chess.board.ArrayMove;
 import chess.bots.LazySearcher;
 import chess.bots.SimpleSearcher;
 import chess.game.SimpleEvaluator;
-import cse332.chess.interfaces.Move;
-import cse332.chess.interfaces.Searcher;
+import src.chess.interfaces.Move;
+import src.chess.interfaces.Searcher;
 
 public class TestGame {
     public Searcher<ArrayMove, ArrayBoard> whitePlayer;

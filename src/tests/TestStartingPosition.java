@@ -4,8 +4,8 @@ import chess.board.ArrayBoard;
 import chess.board.ArrayMove;
 import chess.bots.LazySearcher;
 import chess.game.SimpleEvaluator;
-import cse332.chess.interfaces.Move;
-import cse332.chess.interfaces.Searcher;
+import src.chess.interfaces.Move;
+import src.chess.interfaces.Searcher;
 
 public class TestStartingPosition {
     public static final String STARTING_POSITION = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";

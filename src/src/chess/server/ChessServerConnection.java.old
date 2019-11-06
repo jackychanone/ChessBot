@@ -1,4 +1,4 @@
-package cse332.chess.server;
+package src.chess.server;
 
 import java.io.*;
 import java.net.*;

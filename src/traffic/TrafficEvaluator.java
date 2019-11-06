@@ -1,6 +1,6 @@
 package traffic;
 
-import cse332.chess.interfaces.Evaluator;
+import src.chess.interfaces.Evaluator;
 
 public class TrafficEvaluator implements Evaluator<TrafficPosition> {
     private static final int SEC_PER_MIN = 60;

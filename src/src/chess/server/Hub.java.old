@@ -1,4 +1,4 @@
-package cse332.chess.server;
+package src.chess.server;
 
 import java.awt.Dimension;
 import java.awt.Frame;
@@ -7,10 +7,10 @@ import javax.swing.BoxLayout;
 import javax.swing.JPanel;
 import javax.swing.JSplitPane;
 
-import cse332.chess.gui.Config;
-import cse332.chess.gui.EasyMenuFrame;
-import cse332.chess.gui.GamePanel;
-import cse332.chess.gui.MessagePanel;
+import src.chess.gui.Config;
+import src.chess.gui.EasyMenuFrame;
+import src.chess.gui.GamePanel;
+import src.chess.gui.MessagePanel;
 import chess.play.EasyChess;
 
 public class Hub extends JPanel {

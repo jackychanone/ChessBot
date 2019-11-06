@@ -1,4 +1,4 @@
-package cse332.chess.gui;
+package src.chess.gui;
 
 import java.awt.CheckboxMenuItem;
 import java.awt.Event;
@@ -8,7 +8,7 @@ import java.awt.MenuItem;
 
 import javax.swing.JFrame;
 
-import cse332.chess.server.Hub;
+import src.chess.server.Hub;
 
 public class EasyMenuFrame extends JFrame {
     private static final long serialVersionUID = 93543371734115264L;

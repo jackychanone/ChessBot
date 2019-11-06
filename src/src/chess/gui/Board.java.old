@@ -1,4 +1,4 @@
-package cse332.chess.gui;
+package src.chess.gui;
 //package com.chessclub.easychess;
 
 import java.awt.BasicStroke;
@@ -12,7 +12,7 @@ import java.awt.Image;
 import java.awt.Point;
 import java.awt.Stroke;
 
-import cse332.chess.server.Hub;
+import src.chess.server.Hub;
 
 public final class Board extends Canvas {
     private static final long serialVersionUID = 9083239188755001093L;

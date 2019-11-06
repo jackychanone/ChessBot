@@ -1,4 +1,4 @@
-package cse332.chess.gui;
+package src.chess.gui;
 
 import java.awt.Checkbox;
 import java.awt.CheckboxGroup;
@@ -20,7 +20,7 @@ import javax.swing.JTextField;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 
-import cse332.chess.server.Hub;
+import src.chess.server.Hub;
 
 public final class MessagePanel extends JPanel {
     private static final long serialVersionUID = -4281264808206657839L;

@@ -1,4 +1,4 @@
-package cse332.chess.gui;
+package src.chess.gui;
 //package com.chessclub.easychess;
 
 import java.awt.Component;

@@ -1,9 +1,9 @@
 package chess.bots;
 
-import cse332.chess.interfaces.AbstractSearcher;
-import cse332.chess.interfaces.Board;
-import cse332.chess.interfaces.Move;
-import cse332.exceptions.NotYetImplementedException;
+import src.chess.interfaces.AbstractSearcher;
+import src.chess.interfaces.Board;
+import src.chess.interfaces.Move;
+import src.exceptions.NotYetImplementedException;
 
 
 public class ParallelSearcher<M extends Move<M>, B extends Board<M, B>> extends

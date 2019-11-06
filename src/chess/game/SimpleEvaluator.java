@@ -1,6 +1,6 @@
 package chess.game;
 
-import cse332.chess.interfaces.Evaluator;
+import src.chess.interfaces.Evaluator;
 import chess.board.ArrayBoard;
 
 import chess.board.ArrayPiece;
